@@ -18,7 +18,21 @@ This report documents the iterative improvement of a character-level GPT model t
 
 **Generated Output:**
 
-> "The f hucheme uts liBumRove ainghe f my d shofathe..."
+> "The f hucheme uts liBumRove ainghe f my d shofathe tosh t, beis
+Pormy ope shill y mo ven pus'lomy, f ots f ROfoumise bes spe t apa thttheg,
+t, ch; sorite t t,
+By
+Bu sofadee hiswevert tt lake y tore y s isterd, a ay
+Artheren til? s I mbithe IO andacodle, ho ined o ave hangb alt
+Thayam. viof cage, Itoold covO tdese; a it ie f, fane, w's d on:
+
+I tincke fuf I pincen y u, epeman gead cr bclea sthe d co wa
+Ta ionuthalo.
+Whatoke d huce t tl d chis m
+wond o, weequearthetratFothe s h.
+
+Serof?
+BUKE thinde RW"
 
 ---
 
@@ -78,11 +92,3 @@ This report documents the iterative improvement of a character-level GPT model t
 | 2 | AdamW Optimizer | Actual words appear; structure improves. |
 | 3 | Dropout | Better generalization; reduced overfitting. |
 | **Final** | **Longer Training** | **Coherent Shakespearean style and formatting.** |
-
----
-
-### Pro-Tips for your Graphs:
-
-1. **Label your Axes:** Ensure the Y-axis is "Loss" and the X-axis is "Iterations" or "Epochs."
-2. **Color Code:** Use one color for *Training Loss* and another for *Val Loss*.
-3. **Scale:** Keep the Y-axis scale (e.g., 0 to 4.0) consistent across all images so the viewer can visually see the loss dropping from Version 1 to the Final Version.
