@@ -18,18 +18,8 @@ This report documents the iterative improvement of a character-level GPT model t
 
 **Generated Output:**
 
-> "The f hucheme uts liBumRove ainghe f my d shofathe tosh t, beis
-Pormy ope shill y mo ven pus'lomy, f ots f ROfoumise bes spe t apa thttheg,
-t, ch; sorite t t,
-By
-Bu sofadee hiswevert tt lake y tore y s isterd, a ay
-Artheren til? s I mbithe IO andacodle, ho ined o ave hangb alt
-Thayam. viof cage, Itoold covO tdese; a it ie f, fane, w's d on:
+<img width="794" height="280" alt="image" src="https://github.com/user-attachments/assets/f62c4ee9-0684-414f-93a3-4af21f9e2cf1" />
 
-I tincke fuf I pincen y u, epeman gead cr bclea sthe d co wa
-Ta ionuthalo.
-Whatoke d huce t tl d chis m
-wond o, weequearthetratFothe s h.
 
 Serof?
 BUKE thinde RW"
@@ -49,7 +39,8 @@ BUKE thinde RW"
 
 **Generated Output:**
 
-> "The kaus my caate shall to heavinous come. The curse to the tonguest place are make..."
+<img width="796" height="332" alt="image" src="https://github.com/user-attachments/assets/f38159a5-1cbf-4a88-85a6-741fd69f7d33" />
+
 
 ---
 
@@ -65,7 +56,8 @@ BUKE thinde RW"
 
 **Generated Output:**
 
-> "LADY: A shadand sriss verced-mes, not Rome you leame..."
+<img width="798" height="370" alt="image" src="https://github.com/user-attachments/assets/5f48736d-4a07-4d4d-b28c-03907ba2f91b" />
+
 
 ---
 
@@ -80,7 +72,8 @@ BUKE thinde RW"
 
 **Generated Output:**
 
-> "AUTOLYCUS: As traitor, my lord's word; sudden, I tout unltoget o' The delivery? Common neither."
+<img width="790" height="387" alt="image" src="https://github.com/user-attachments/assets/90c75051-e05c-4166-a0e9-adb521d8cf67" />
+
 
 ---
 
